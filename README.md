@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat" alt="neddy1298" /> </p>
 
 - 🌱 I’m currently learning **Android & Flutter**
@@ -25,5 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neddy1298&show_icons=true&theme=onedark&locale=en" alt="neddy1298" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neddy1298&theme=dark" alt="neddy1298" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neddy1298&theme=default" alt="neddy1298" /></p>
