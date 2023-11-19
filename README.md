@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat" alt="neddy1298" /> </p>
 
-- 🌱 I’m currently learning **Android & Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Laravel, IT Support**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **neddy.prasetio@gmail.com**
 
-- ⚡ Fun fact **I am Fast Learner**
+- ⚡ **I am Fast Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
