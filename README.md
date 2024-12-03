@@ -1,42 +1,48 @@
-<h1 align="center">Hi 👋, I'm Neddy Avgha Prasetio</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+# Hi there! 👋 I'm Neddy Avgha Prasetio
 
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+## 🚀 Passionate Developer from Indonesia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat" alt="neddy1298" /> </p>
+![Coding Illustration](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)
 
-- 🌱 I’m currently learning **Machine Learning**
+[![Profile Views](https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/neddy1298)
 
-- 💬 Ask me about **Tech**
+## 🌟 About Me
 
-- 📫 How to reach me **neddy.prasetio@gmail.com**
+I'm a dynamic and innovative developer with a passion for technology and continuous learning. Currently diving deep into the exciting world of **Machine Learning** and expanding my technical horizons.
 
-- ⚡ **I am Fast Learner**
+## 🔍 Quick Highlights
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neddy-avgha-prasetio-14aa791b3" height="30" width="40" /></a>
-</p>
+- 🌱 Currently exploring **Machine Learning**
+- 💬 Happy to discuss all things **Tech**
+- 📧 Reach me at: **neddy.prasetio@gmail.com**
+- ⚡ **Fast Learner** with an insatiable curiosity
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html-5.png" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css-3.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3)
+[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://neddy1298.github.io/next-portfolio/)
 
-</p>
+## 💻 Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neddy1298&show_icons=true&theme=dark&locale=en&layout=compact" alt="neddy1298" /></p>
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neddy1298&theme=dark" alt="neddy1298" /></p>
+### Mobile & Cross-Platform
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=neddy1298&show_icons=true&theme=dark&locale=en&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neddy1298&theme=dark)
