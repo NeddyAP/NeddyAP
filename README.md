@@ -8,19 +8,19 @@
 
 ## 🌟 About Me
 
-I'm a dynamic and innovative developer with a passion for technology and continuous learning. Currently diving deep into the exciting world of **Machine Learning** and expanding my technical horizons.
+I'm a dynamic and innovative developer with a passion for technology and continuous learning. Currently diving deep into the exciting world of **Javascripts** and expanding my technical horizons.
 
 ## 🔍 Quick Highlights
 
-- 🌱 Currently exploring **Machine Learning**
+- 🌱 Currently exploring **Next JS**
 - 💬 Happy to discuss all things **Tech**
 - 📧 Reach me at: **neddy.prasetio@gmail.com**
 - ⚡ **Fast Learner** with an insatiable curiosity
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3)
 [![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://neddy1298.github.io/next-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3)
 
 ## 💻 Languages and Tools
 
@@ -31,7 +31,7 @@ I'm a dynamic and innovative developer with a passion for technology and continu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-### Backend & Frameworks
+### Frameworks & Library
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
