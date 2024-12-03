@@ -12,7 +12,7 @@ I'm a dynamic and innovative developer with a passion for technology and continu
 
 ## 🔍 Quick Highlights
 
-- 🌱 Currently exploring **Machine Learning**
+- 🌱 Currently exploring **Next JS**
 - 💬 Happy to discuss all things **Tech**
 - 📧 Reach me at: **neddy.prasetio@gmail.com**
 - ⚡ **Fast Learner** with an insatiable curiosity
