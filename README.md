@@ -1,14 +1,10 @@
 # Hi there! 👋 I'm Neddy Avgha Prasetio
 
-## 🚀 Passionate Developer from Indonesia
-
-![Coding Illustration](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/neddy1298)
-
 ## 🌟 About Me
 
 I'm a dynamic and innovative developer with a passion for technology and continuous learning. Currently diving deep into the exciting world of **Javascripts** and expanding my technical horizons.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/neddy1298)
 
 ## 🔍 Quick Highlights
 
