@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a dynamic and innovative developer with a passion for technology and continuous learning. Currently diving deep into the exciting world of **Javascripts** and expanding my technical horizons.
+I'm a dynamic and curious developer passionate about technology and lifelong learning. Currently exploring the exciting world of **JavaScript** and continually expanding my technical expertise.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/neddy1298)
 
