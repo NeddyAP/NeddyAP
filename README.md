@@ -4,7 +4,7 @@
 
 I'm a dynamic and curious developer passionate about technology and lifelong learning. Currently exploring the exciting world of **JavaScript** and continually expanding my technical expertise.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=neddy1298&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/neddy1298)
+[![Profile Views](https://komarev.com/ghpvc/?username=NeddyAP&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/NeddyAP)
 
 ## 🔍 Quick Highlights
 
@@ -15,7 +15,7 @@ I'm a dynamic and curious developer passionate about technology and lifelong lea
 
 ## 🌐 Connect with Me
 
-[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://neddy1298.github.io/next-portfolio/)
+[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://NeddyAP.github.io/next-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3)
 
 ## 💻 Languages and Tools
