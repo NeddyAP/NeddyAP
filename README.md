@@ -42,6 +42,6 @@ I'm a dynamic and curious developer passionate about technology and lifelong lea
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=neddy1298&show_icons=true&theme=dark&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NeddyAP&show_icons=true&theme=dark&locale=en&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neddy1298&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeddyAP&theme=dark)
