@@ -8,7 +8,7 @@ I'm a dynamic and curious developer passionate about technology and lifelong lea
 
 ## 🔍 Quick Highlights
 
-- 🌱 Currently exploring **React JS**
+- 🌱 Currently exploring **GoLang**
 - 💬 Happy to discuss all things **Tech**
 - 📧 Reach me at: **neddy.prasetio@gmail.com**
 - ⚡ **Fast Learner** with an insatiable curiosity
