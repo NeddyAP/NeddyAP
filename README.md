@@ -15,7 +15,7 @@ I'm a dynamic and curious developer passionate about technology and lifelong lea
 
 ## 🌐 Connect with Me
 
-[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://NeddyAP.github.io/next-portfolio/)
+[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=freelancer&logoColor=white)](https://neddyap.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neddy-avgha-prasetio-14aa791b3)
 
 ## 💻 Languages and Tools
