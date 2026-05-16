@@ -2,14 +2,14 @@
 
 ## 🌟 About Me
 
-I'm a dynamic and curious developer passionate about technology and lifelong learning. Currently exploring the exciting world of **JavaScript** and continually expanding my technical expertise.
+I'm a dynamic and curious developer passionate about technology and lifelong learning. Currently exploring the exciting world of **GoLang** and continually expanding my technical expertise.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NeddyAP&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/NeddyAP)
 
 ## 🔍 Quick Highlights
 
 - 🌱 Currently exploring **GoLang**
-- 💬 Happy to discuss all things **Tech**
+- 💬 Happy to discuss all things about **Tech**
 - 📧 Reach me at: **neddy.prasetio@gmail.com**
 - ⚡ **Fast Learner** with an insatiable curiosity
 
